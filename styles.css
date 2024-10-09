@@ -12,11 +12,16 @@ section {
     border-radius: 5px;
 }
 header, footer {
-    background-color: #333;
+    background-color: #00eeee;
     color: white;
     text-align: center;
     padding: 1em 0;
 }
 div{
     padding: 1em;
+}
+nav{
+    color: white;
+    text-align: left;
+    font-size: 18;
 }
